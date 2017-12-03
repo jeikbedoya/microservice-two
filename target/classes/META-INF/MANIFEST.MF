@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: two
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: jeik
+Implementation-Vendor-Id: com.jeikode.microservice
+Build-Jdk: 1.8.0_144
+Implementation-URL: http://projects.spring.io/spring-boot/two/
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+
